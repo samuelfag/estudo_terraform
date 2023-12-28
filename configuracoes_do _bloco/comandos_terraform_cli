@@ -1,0 +1,13 @@
+#Uso do comando terraform providers
+##Informa quais providers estão no seu codigo e são necessários para a execução do codigo
+###Deve ser executado dentro da pasta que está o codigo
+
+#Uso do terraform init
+##É necessário quando se altera a versão do provider ou se executa o terraform pela primeira vez, ou quando se altera algum modulo
+
+#Uso do terraform fmt
+##É usado para formatar o codigo no formato adequado para uso no terraform, facilita a leitura de arquivos terraform
+###Opções de uso -check mostra os arquivos que serão alterados, -diff mostra as alterações que foram realizadas
+
+#Uso do terraform validate
+##É possivel utilizar somente apos o terraform init, ele verifica se a configuração do codigo possui erros
