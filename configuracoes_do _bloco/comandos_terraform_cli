@@ -19,4 +19,7 @@
 ##Realiza a leitura do arquivo de plan do terraform
 
 #Uso do terraform apply 
-##Ele cria a infraestrutura solicitada, ele cria o plano novamente e mostra o que foi criado ou atualizado
+##Ele cria a infraestrutura solicitada, ele cria o plano novamente e mostra o que foi criado ou atualizado, opção auto-approve não pergunta se deseja criar a infraestrutura solicitada
+
+#Uso do terraform destroy
+##Remove a infra que foi criada pelo terraform
