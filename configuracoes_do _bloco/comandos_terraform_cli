@@ -11,3 +11,9 @@
 
 #Uso do terraform validate
 ##É possivel utilizar somente apos o terraform init, ele verifica se a configuração do codigo possui erros
+
+#Usdo do terraform plan
+##Server para mostrar o que será realizado pelo terraform, ele não cria nada, somente mostra as alterações que serão realizadas
+
+#Uso do terraform show
+##Realiza a leitura do arquivo de plan do terraform
