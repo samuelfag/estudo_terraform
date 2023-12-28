@@ -17,3 +17,6 @@
 
 #Uso do terraform show
 ##Realiza a leitura do arquivo de plan do terraform
+
+#Uso do terraform apply 
+##Ele cria a infraestrutura solicitada, ele cria o plano novamente e mostra o que foi criado ou atualizado
